@@ -14,7 +14,7 @@ lcd.print("LCD EKRAN");
  
 void loop()
 {
-//PROJE HOCAM LCD EKRAN PROJESİ 
+
  
 }
 
